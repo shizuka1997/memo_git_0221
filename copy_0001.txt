@@ -1,0 +1,25 @@
+
+■ 初回
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/アカウント名/フォルダ名.git
+git push -u origin main
+
+
+■ 変更時
+git add .
+git commit -m "first commit"
+git push -u origin main
+
+
+
+git add .
+　↑
+ドットはすべてのファイル　という意味。
+
+
+
+
+
